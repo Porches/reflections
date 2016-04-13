@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+
+1)	I have learned the new elements <strike> and <sup>
+
+2)	It was quite easy to copy the Mock Up.
+
+3)	Was a bit difficult to google and find the <sup> element :p
+
+4)	To solve my problem to find the <sup> element I just googled "html upper letter"
+
